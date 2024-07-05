@@ -1,4 +1,20 @@
-p.info {
+p.description {
   color: black;
   background-color: rgb(255, 153, 153);
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+div#description_1 {
+  color:blue;
+  font-size: 36px;
+}
+
+p.description.large {
+  font-size: 24px;
+}
+
+div#description_2 {
+  background-color: rgb(153, 255, 102);
+  font-size: 24px;
+  font-weight: bold;
 }
